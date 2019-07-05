@@ -1,0 +1,42 @@
+body{
+    background-image: url(cha-de-gengibre.jpg);
+    background-size: cover;
+}
+
+button{
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+}
+
+.Botão-Bala{
+    background-color: rgb(112, 112, 145);
+}
+.Botão-Tempero{
+    background-color: rgb(192, 192, 86);
+}
+.Botão-Cachaça{
+    background-color: rgb(148, 80, 80);
+}
+.Botão-Chá{
+    background-color: rgb(156, 97, 133);
+}
+.Botão-Quentão{
+    background-color: rgb(173, 93, 64);
+}
+
+div h3:nth-child(1){
+    color: brown
+}
+div h3:nth-child(2){
+    color: blue
+}
+div h3:nth-child(3){
+    color: orange
+}
